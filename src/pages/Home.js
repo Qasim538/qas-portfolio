@@ -7,6 +7,7 @@ import "../styles/Home.css"
 function Home() {
     return (
         <div className="home"> 
+        
         <div className="about"> 
         <h2> Hi, My Name is Qasim </h2>
         <div className="prompt"> 
@@ -14,9 +15,15 @@ function Home() {
             A Web Developer with passion for learning and coding.
             </p> 
             <div className="socialMedia">
+            <a target="_blank" href="https://www.linkedin.com/in/qasim-%E2%80%8Emuhammad-16b24011b/">
             <LinkedInIcon />
+            </a>
+            <a target="_blank" href="mailto: mq12113@gmail.com">
             <EmailIcon />
+            </a>
+            <a target="_blank" href="https://github.com/Qasim538">
             <GitHubIcon />
+            </a>
             </div>
             <button className="button">Click to see my Skills</button>
             </div>

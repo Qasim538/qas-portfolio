@@ -1,3 +1,4 @@
+
 .home {
     width: 100%;
     align-items: center;
@@ -7,13 +8,18 @@
   
   .about {
     width: 100%;
-    height: calc(100vh - 100px);
+    background-image: url(../assets/02-hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    opacity: .9;
+    /* height: calc(100vh - 100px); */
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #21325e;
+    /* background-color: #21325e; */
     color: #f0f0f0;
   }
   
