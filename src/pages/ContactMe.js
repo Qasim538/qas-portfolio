@@ -25,7 +25,7 @@ function ContactMe() {
             <label for="details">Your Message</label>
             <textarea id="details" name="details" placeholder="Write Your Text Here.."/>
     
-            <button class="btn btn-primary mb-3" type="submit" id="submit-btn">Submit</button>
+            <button class="submit" type="submit" id="submit-btn">Submit</button>
     
           </form>
         </div>

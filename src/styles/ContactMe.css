@@ -39,7 +39,7 @@
   }
 
   /* Style the submit button with a specific background color etc */
-button {
+.submit {
     background-color: #21325e;
     color: white;
     padding: 12px 20px;
@@ -51,7 +51,7 @@ button {
   }
   
   /* When moving the mouse over the submit button, add a darker green color */
-  button:hover {
+  .submit:hover {
     background-color: #fff;
     color: #21325e;
   }
