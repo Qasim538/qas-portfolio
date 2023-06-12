@@ -4,6 +4,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import EmailIcon from "@mui/icons-material/Email";
 import "../styles/Home.css"
 
+
 function Home() {
     return (
         <div className="home"> 
@@ -32,11 +33,11 @@ function Home() {
         <ul className="list">
             <li className="item"> 
             <h2> Front-End </h2> 
-            <span> ReactJS, JavaScript, HTML, CSS, Bootstrap, MaterialUI, ES6, GitHub, TypeScript, jQuery, Node.</span>
+            <span> ReactJS </span> <span> JavaScript </span> <span> HTML </span> <span> CSS </span> <span> Bootstrap </span> <span> MaterialUI </span> <span> ES6 </span> <span> GitHub </span> <span> TypeScript </span> <span> jQuery </span> <span> Node </span>
             </li>
             <li className="item"> 
             <h2> Additional Skills </h2> 
-            <span> Photoshop, Illustrator, InDesign, Sketch, Figma, XD, </span>
+            <span> Photoshop </span> <span> Illustrator </span> <span> InDesign </span> <span> Sketch </span> <span> Figma </span> <span> XD </span>
             </li>
 
         </ul>

@@ -56,6 +56,14 @@
     list-style: none;
     width: 60%;
   }
+
+  span {
+    background: #e9d35b;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 4px;
+    font-weight: bold;
+  }
   
   .list span {
     font-size: 20px;
