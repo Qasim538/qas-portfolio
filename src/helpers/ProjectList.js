@@ -11,41 +11,41 @@ export const ProjectList = [
         name: "Password Generator",
         image: Proj1,
         skills: "HTML, CSS, JavaScript",
-        GitHubDeployed:"https://qasim538.github.io/Password-Generator-Module-5-Challenge"
+        repo:"https://qasim538.github.io/Password-Generator-Module-5-Challenge"
     },
 
     {
         name: "Team Profile Generator",
         image: Proj2,
         skills: "HTML, CSS, JavaScript",
-        GitHubRepo:" https://qasim538.github.io/team-profile-generator "
+        repo:" https://qasim538.github.io/team-profile-generator "
     },
 
     {
         name: "Weather Dashboard",
         image: Proj3,
         skills: "HTML, CSS, JavaScript",
-        GitHubDeployed:"  "
+        repo:" https://github.com/Qasim538/Check-Your-City-Weather "
     },
 
     {
         name: "Work Day Scheduler",
         image: Proj4,
         skills: "HTML, CSS, JavaScript",
-        GitHubDeployed:"  "
+        repo:" https://github.com/Qasim538/My-Planner-Work-Day-Scheduler "
     },
 
     {
         name: "Images and Videos Search Engine",
         image: Proj5,
         skills: "HTML, CSS, JavaScript",
-        GitHubDeployed:" https://github.com/Qasim538/team-profile-generator "
+        repo:" https://github.com/milla56/Click-Studio "
     },
 
     {
         name: "Portfolio",
         image: Proj6,
         skills: "HTML, CSS, JavaScript",
-        GitHubDeployed:"  "
+        repo:" https://github.com/Qasim538/Bootstrap-Portfolio-Challange-3 "
     }
 ]
