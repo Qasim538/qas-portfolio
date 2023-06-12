@@ -25,7 +25,6 @@ function Home() {
             <GitHubIcon />
             </a>
             </div>
-            <button className="button">Click to see my Skills</button>
             </div>
         </div>
         <div className="skills"> 
