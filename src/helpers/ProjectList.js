@@ -9,31 +9,37 @@ export const ProjectList = [
 
     {
         name: "Password Generator",
-        image: Proj1
+        image: Proj1,
+        skills: "HTML, CSS, JavaScript"
     },
 
     {
         name: "Team Profile Generator",
-        image: Proj2
+        image: Proj2,
+        skills: "HTML, CSS, JavaScript"
     },
 
     {
         name: "Weather Dashboard",
-        image: Proj3
+        image: Proj3,
+        skills: "HTML, CSS, JavaScript"
     },
 
     {
         name: "Work Day Scheduler",
-        image: Proj4
+        image: Proj4,
+        skills: "HTML, CSS, JavaScript"
     },
 
     {
         name: "Media Marketing Agency",
-        image: Proj5
+        image: Proj5,
+        skills: "HTML, CSS, JavaScript"
     },
 
     {
         name: "Portfolio",
-        image: Proj6
+        image: Proj6,
+        skills: "HTML, CSS, JavaScript"
     }
 ]
