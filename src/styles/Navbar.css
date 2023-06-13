@@ -1,7 +1,7 @@
 .navbar {
     width: 100%;
     height: 100px;
-    background: #21325e;
+    background: #555555;
   }
   
   .links {
@@ -14,10 +14,20 @@
   }
   
   .navbar a {
-    color: white;
+    color: #c9c9c9;
     text-decoration: none;
     margin: 20px;
     font-size: 25px;
+    transition: all .5s;
+  }
+  .navbar a:hover {
+    color: #67e95b;
+    scale: 1.1;
+  
+  }
+
+  .active {
+    color: #67e95b;
   }
   
   .toggleButton {
