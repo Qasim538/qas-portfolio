@@ -1,7 +1,7 @@
 {
   "name": "qas-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Qasim538.github.io/react-gh-pages",
+  "homepage": "https://qasim538.github.io/qas-portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
