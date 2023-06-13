@@ -54,7 +54,7 @@ https://github.com/Qasim538
 
 # Preview
 
-![Preview](assets/object-oriented-programming-challenge-demo.png)
+![Preview](assets/src/assets/Preview)
 
 # Live Demo
 Here is the link to the online video for demo:
