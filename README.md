@@ -57,5 +57,5 @@ https://github.com/Qasim538
 ![Preview](./src/assets/preview.png)
 
 # Live Demo
-Here is the link to the online video for demo:
-https://www.youtube.com/watch?v=BopIpLuNsyc
+Here is the link to the online video for demo: <br>
+[https://www.youtube.com/watch?v=BopIpLuNsyc](https://youtu.be/Z7AbLHyg_ZE)
