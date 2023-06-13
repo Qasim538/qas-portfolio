@@ -3,6 +3,9 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import EmailIcon from "@mui/icons-material/Email";
 import "../styles/Home.css"
+import pdf from '../assets/Qasim-Dev-CV.pdf'
+
+
 
 
 function Home() {
@@ -10,7 +13,9 @@ function Home() {
         <div className="home"> 
         
         <div className="about"> 
+        
         <h2> Hi, My Name is Qasim </h2>
+        
         <div className="prompt"> 
             <p>
             A Web Developer with passion for learning and coding.
@@ -26,6 +31,11 @@ function Home() {
             <GitHubIcon />
             </a>
             </div>
+            <a target="_blank" href={pdf}>
+            <button>
+             Download CV
+            </button>
+            </a>
             </div>
         </div>
         <div className="skills"> 
@@ -39,7 +49,6 @@ function Home() {
             <h2> Additional Skills </h2> 
             <span> Photoshop </span> <span> Illustrator </span> <span> InDesign </span> <span> Sketch </span> <span> Figma </span> <span> XD </span>
             </li>
-
         </ul>
         </div>
         </div>

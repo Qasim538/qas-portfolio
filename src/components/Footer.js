@@ -2,7 +2,6 @@ import React from "react";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import EmailIcon from "@mui/icons-material/Email";
-import AttachFileIcon from '@mui/icons-material/AttachFile';
 import "../styles/Footer.css"
 
 function Footer() {
@@ -17,9 +16,7 @@ function Footer() {
         <a target="_blank" href="https://github.com/Qasim538">
         <GitHubIcon />
         </a>
-        <a href="">
-        <AttachFileIcon />
-        </a>
+      
     </div>
     <p> &copy; Qasim Dev 2023</p>
          

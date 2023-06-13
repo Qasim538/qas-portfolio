@@ -38,6 +38,18 @@
     margin: 5px;
     color: white;
   }
+    button {
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: #e9d35b;
+    transition: all .5s;
+
+  }
+button:hover {
+  scale: 1.2;
+}
   
   .skills {
     font-size: 35px;
@@ -92,3 +104,5 @@
       font-size: 30px;
     }
   }
+
+
