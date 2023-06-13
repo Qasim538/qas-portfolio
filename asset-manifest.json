@@ -1,23 +1,25 @@
 {
-  "files": {
-    "main.css": "/react-gh-pages/static/css/main.49ff916a.css",
-    "main.js": "/react-gh-pages/static/js/main.3eb34394.js",
-    "static/js/787.fd71eabc.chunk.js": "/react-gh-pages/static/js/787.fd71eabc.chunk.js",
-    "static/media/Proj5.png": "/react-gh-pages/static/media/Proj5.81e099c324b9d004022d.png",
-    "static/media/Proj3.png": "/react-gh-pages/static/media/Proj3.5d480527677952991b0d.png",
-    "static/media/Proj6.jpg": "/react-gh-pages/static/media/Proj6.7cae464a6b79901e66c6.jpg",
-    "static/media/Proj4.png": "/react-gh-pages/static/media/Proj4.77c0a78635fd1676eaa4.png",
-    "static/media/Qasim-Dev-CV.pdf": "/react-gh-pages/static/media/Qasim-Dev-CV.2c95243c499f86a7f37c.pdf",
-    "static/media/02-hero-bg.png": "/react-gh-pages/static/media/02-hero-bg.d0ce378a0a2bde03c757.png",
-    "static/media/Proj2.png": "/react-gh-pages/static/media/Proj2.399fd7d8d2f2bf956293.png",
-    "static/media/Proj1.png": "/react-gh-pages/static/media/Proj1.aa25cbf89939def02f6b.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.49ff916a.css.map": "/react-gh-pages/static/css/main.49ff916a.css.map",
-    "main.3eb34394.js.map": "/react-gh-pages/static/js/main.3eb34394.js.map",
-    "787.fd71eabc.chunk.js.map": "/react-gh-pages/static/js/787.fd71eabc.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.49ff916a.css",
-    "static/js/main.3eb34394.js"
-  ]
+  "main.css": "/react-gh-pages/static/css/main.039b4a17.chunk.css",
+  "main.js": "/react-gh-pages/static/js/main.5fb6bbb3.chunk.js",
+  "main.js.map": "/react-gh-pages/static/js/main.5fb6bbb3.chunk.js.map",
+  "static/js/1.93c748a8.chunk.js": "/react-gh-pages/static/js/1.93c748a8.chunk.js",
+  "static/js/1.93c748a8.chunk.js.map": "/react-gh-pages/static/js/1.93c748a8.chunk.js.map",
+  "static/css/2.c115cd57.chunk.css": "/react-gh-pages/static/css/2.c115cd57.chunk.css",
+  "static/js/2.fd7202a5.chunk.js": "/react-gh-pages/static/js/2.fd7202a5.chunk.js",
+  "static/js/2.fd7202a5.chunk.js.map": "/react-gh-pages/static/js/2.fd7202a5.chunk.js.map",
+  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.798d7938.js",
+  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.798d7938.js.map",
+  "static/media/Qasim-Dev-CV.pdf": "/react-gh-pages/static/media/Qasim-Dev-CV.ea096b24.pdf",
+  "static/media/Proj1.png": "/react-gh-pages/static/media/Proj1.0d55b663.png",
+  "static/media/Proj2.png": "/react-gh-pages/static/media/Proj2.e49e99c1.png",
+  "static/media/Proj3.png": "/react-gh-pages/static/media/Proj3.2b36e357.png",
+  "static/media/Proj4.png": "/react-gh-pages/static/media/Proj4.07bf4adf.png",
+  "static/media/Proj5.png": "/react-gh-pages/static/media/Proj5.8b9946ca.png",
+  "static/media/Proj6.jpg": "/react-gh-pages/static/media/Proj6.90e2724b.jpg",
+  "static/media/Home.css": "/react-gh-pages/static/media/02-hero-bg.618f0883.png",
+  "static/css/main.039b4a17.chunk.css.map": "/react-gh-pages/static/css/main.039b4a17.chunk.css.map",
+  "static/css/2.c115cd57.chunk.css.map": "/react-gh-pages/static/css/2.c115cd57.chunk.css.map",
+  "index.html": "/react-gh-pages/index.html",
+  "precache-manifest.7bda6c5f7363b62159a52bb9b5add068.js": "/react-gh-pages/precache-manifest.7bda6c5f7363b62159a52bb9b5add068.js",
+  "service-worker.js": "/react-gh-pages/service-worker.js"
 }
