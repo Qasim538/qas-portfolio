@@ -5,6 +5,7 @@ import {VerticalTimeline, VerticalTimelineElement,
 }  from "react-vertical-timeline-component"
 import "react-vertical-timeline-component/style.min.css";
 import "../styles/Experience.css"
+import pdf from "../assets/Qasim-Dev-CV.pdf"
 
 
 function Experience() {
@@ -23,34 +24,34 @@ function Experience() {
 
             <VerticalTimelineElement 
             className="vertical-timeline-element--work"
-            date="2015 - 2020" iconStyle={{background: "#3e497a", color: "#ffffff"}} icon={<BadgeIcon />}
+            date="2015 - 2020" iconStyle={{background: "e9d35b", color: "#ffffff"}} icon={<BadgeIcon />}
             > <h3 className="vertical-timeline-element-title"> McCANN London</h3> 
             <h4>Creative Artworker/Designer</h4>
             <p>
-            As a Creative Artworker/Designer, I have successfully applied client brand guidelines, technical specifications, photography, and supplied text to create impactful designs for renowned brands such as Just Eat, Subway, Premier Foods, eBay, Chivas, Bayer, Reckitt Benckiser, Microsoft, Mastercard, TSB, and Qatar Financial Centre. <br></br> <br></br>
+             As a Creative Artworker/Designer, I have successfully applied client brand guidelines, technical specifications, photography, and supplied text to create impactful designs for renowned brands such as Just Eat, Subway, Premier Foods, eBay, Chivas, Bayer, Reckitt Benckiser, Microsoft, Mastercard, TSB, and Qatar Financial Centre. <br></br> <br></br>
              By effectively interpreting and implementing these elements, I have consistently delivered visually compelling artwork that aligns with client expectations and enhances brand identities. My meticulous attention to detail and expertise in utilizing design software have enabled me to produce print-ready materials that meet the highest standards of quality and professionalism.</p>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement 
             className="vertical-timeline-element--education"
             date="2023" iconStyle={{background: "#3e497a", color: "#ffffff"}} icon={<SchoolIcon />}
-            > <h3 className="vertical-timeline-element-title"> University of Birmingham</h3> 
-            <h4>Skills Boot Camp in Front-End Web Development</h4>
+            > <h3 className="vertical-timeline-element-title"> Skills Boot Camp in Front-End Web Development </h3> 
+            <h4>University of Birmingham</h4>
             <p>I completed an intensive and immersive front-end web development boot camp focused on building a solid foundation in HTML, CSS, and JavaScript. Developed proficiency in responsive design principles and gained hands-on experience with popular frameworks like React. <br></br> <br></br> Successfully completed a series of challenging individual and group projects, including building fully functional websites and web applications. Received recognition for exceptional problem-solving abilities, attention to detail, and strong collaboration skills within a team-based learning environment. Demonstrated consistent growth and dedication to mastering cutting-edge web development technologies and industry best practices.</p>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement 
             className="vertical-timeline-element--education"
             date=" 2021 - 2022 " iconStyle={{background: "#3e497a", color: "#ffffff"}} icon={<SchoolIcon />}
-            > <h3 className="vertical-timeline-element-title"> Chartered Management Institute (CMI)</h3> 
-            <h4>CMI Level 3 Diploma Certificate in Management and Leadership</h4>
+            > <h3 className="vertical-timeline-element-title"> CMI Level 3 Diploma Certificate in Management and Leadership </h3> 
+            <h4> Chartered Management Institute (CMI) </h4>
             <p>Successfully completed the CMI Level 3 Diploma in Management and Leadership, a comprehensive program designed to enhance leadership and management skills. <br></br> <br></br> Developed a solid understanding of key management principles, including effective communication, team building, problem-solving, and decision-making. Completed coursework and assessments covering topics such as organizational culture, leadership styles, and strategic planning. Demonstrated proficiency in applying management theories and techniques to real-world scenarios. Achieved a high level of competence in effectively leading teams and driving organizational success.</p>
             </VerticalTimelineElement>
             
         </VerticalTimeline>
         <div>
-        <a src="">
-        <h3 className="skills">Donwload full CV</h3>
+        <a target="_blank" href={pdf}>
+        <h3 className="skills">Download full CV</h3>
         </a>
         </div>
 
