@@ -46,7 +46,7 @@ Here is the link to repository: <br>
 
 ## Links to Application
 Here is the link to the online application: <br>
-(https://github.com/Qasim538/qas-portfolio/)
+(https://qasim538.github.io/qas-portfolio/)
 
 ## Links to my Github
 https://github.com/Qasim538
