@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Qasim538/qas-portfolio/precache-manifest.efddeb2fcdd63440b38e747d6b598aeb.js"
+  "/qas-portfolio/precache-manifest.806f68680600ff02808134fb9d54d8e2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Qasim538/qas-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/qas-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
