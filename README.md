@@ -54,7 +54,7 @@ https://github.com/Qasim538
 
 # Preview
 
-![Preview](assets/src/assets/Preview)
+![Preview](./src/assets/Preview.png)
 
 # Live Demo
 Here is the link to the online video for demo:
