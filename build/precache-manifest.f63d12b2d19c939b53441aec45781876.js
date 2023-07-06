@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e022bb1b9aaa7bdaeb8d",
-    "url": "/qas-portfolio/static/css/main.b8bed406.chunk.css"
+    "revision": "44031b4cb48bbf41d304",
+    "url": "/qas-portfolio/static/css/main.3a037c39.chunk.css"
   },
   {
-    "revision": "e022bb1b9aaa7bdaeb8d",
-    "url": "/qas-portfolio/static/js/main.e022bb1b.chunk.js"
+    "revision": "44031b4cb48bbf41d304",
+    "url": "/qas-portfolio/static/js/main.44031b4c.chunk.js"
   },
   {
     "revision": "93c748a80b187c4a0720",
     "url": "/qas-portfolio/static/js/1.93c748a8.chunk.js"
   },
   {
-    "revision": "fd7202a5890d2fe38409",
-    "url": "/qas-portfolio/static/css/2.c115cd57.chunk.css"
+    "revision": "545c2682bb5be9da9e74",
+    "url": "/qas-portfolio/static/css/2.dfaab565.chunk.css"
   },
   {
-    "revision": "fd7202a5890d2fe38409",
-    "url": "/qas-portfolio/static/js/2.fd7202a5.chunk.js"
+    "revision": "545c2682bb5be9da9e74",
+    "url": "/qas-portfolio/static/js/2.545c2682.chunk.js"
   },
   {
     "revision": "de27c28119f38e9c3977",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/qas-portfolio/static/media/02-hero-bg.618f0883.png"
   },
   {
-    "revision": "aaef0241b073ba79f43ec23168379ecc",
+    "revision": "1f4feb843d910e2c8aa058eba736e16d",
     "url": "/qas-portfolio/index.html"
   }
 ];
