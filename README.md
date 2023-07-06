@@ -46,7 +46,6 @@ Here is the link to repository: <br>
 
 ## Links to Application
 Here is the link to the online application: <br>
-(https://qasim538.github.io/qas-portfolio/)
 
 ## Links to my Github
 https://github.com/Qasim538
@@ -55,7 +54,3 @@ https://github.com/Qasim538
 # Preview
 
 ![Preview](./src/assets/Preview.png)
-
-# Live Demo
-Here is the link to the online video for demo: <br>
-[https://www.youtube.com/watch?v=BopIpLuNsyc](https://youtu.be/Z7AbLHyg_ZE)
