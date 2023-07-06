@@ -49,11 +49,7 @@ function Experience() {
             </VerticalTimelineElement>
             
         </VerticalTimeline>
-        <div>
-        <a target="_blank" href={pdf}>
-        <h3 className="skills">Download full CV</h3>
-        </a>
-        </div>
+     
 
         </div>
     )

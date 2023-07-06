@@ -31,11 +31,7 @@ function Home() {
             <GitHubIcon />
             </a>
             </div>
-            <a target="_blank" href={pdf}>
-            <button>
-             Download CV
-            </button>
-            </a>
+         
             </div>
         </div>
         <div className="skills"> 
